@@ -79,3 +79,9 @@ Special Skill: Debugging at 3AM 🕒
 - 🎯 Pixel Perfect Aim: Can center a div without flex cheat
 - 🐛 Bug Tamer: +50 patience when console logs are cryptic
 - 🔥 Deploy Roulette: Will it work in prod? Let's find out
+
+## 📝 Mission Statement
+
+Build fast. Ship often. Keep it clean. Have fun doing it.
+
+Because code isn’t just lines — it’s an adventure. And I’m here for the whole quest.
